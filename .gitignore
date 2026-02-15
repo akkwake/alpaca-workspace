@@ -13,6 +13,8 @@ venv/
 .vscode/
 *.swp
 
+pgdata/
+
 tasklist
 
 .claude/
